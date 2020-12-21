@@ -1,2 +1,2 @@
 # projetos-dio
- Projetos dos botcamps da DIO
+ Projetos dos bootcamps da Digital Innovation One (DIO)
