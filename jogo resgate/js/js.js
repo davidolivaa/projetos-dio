@@ -249,7 +249,7 @@ function start() { // Inicio da função start()
 	
 	} //Fim da função colisao()
 
-	//Explos�o 1
+	//Explosão 1
 	function explosao1(inimigo1X,inimigo1Y) {
 		somExplosao.play();
 		$("#fundoGame").append("<div id='explosao1'></div");
@@ -283,7 +283,7 @@ function start() { // Inicio da função start()
 		}	
 	}
 	
-	//Explos�o2	
+	//Explosao2	
 	function explosao2(inimigo2X,inimigo2Y) {
 		somExplosao.play();
 		$("#fundoGame").append("<div id='explosao2'></div");
@@ -316,7 +316,7 @@ function start() { // Inicio da função start()
 		}
 	}
 	
-	//Explos�o3
+	//Explosao3
 	function explosao3(amigoX,amigoY) {
 		somPerdido.play();
 		$("#fundoGame").append("<div id='explosao3' class='anima4'></div");
